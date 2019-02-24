@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\android\\clinic_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\yonghu.png",
+        "source": "F:\\android\\clinic_app\\app\\src\\main\\res\\drawable-hdpi\\yonghu.png"
+    },
+    {
+        "merged": "F:\\android\\clinic_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\android\\clinic_app\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\android\\clinic_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\point_gray.png",
+        "source": "F:\\android\\clinic_app\\app\\src\\main\\res\\drawable-hdpi\\point_gray.png"
+    },
+    {
+        "merged": "F:\\android\\clinic_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\point_red.png",
+        "source": "F:\\android\\clinic_app\\app\\src\\main\\res\\drawable-hdpi\\point_red.png"
+    },
+    {
+        "merged": "F:\\android\\clinic_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mima.png",
+        "source": "F:\\android\\clinic_app\\app\\src\\main\\res\\drawable-hdpi\\mima.png"
+    },
+    {
+        "merged": "F:\\android\\clinic_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ditu.png",
+        "source": "F:\\android\\clinic_app\\app\\src\\main\\res\\drawable-hdpi\\ditu.png"
+    },
+    {
+        "merged": "F:\\android\\clinic_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_search_normal.png",
+        "source": "F:\\android\\clinic_app\\app\\src\\main\\res\\drawable-hdpi\\tab_search_normal.png"
+    }
+]

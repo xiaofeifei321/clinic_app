@@ -1,0 +1,102 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+    tools:context=".RegisterActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="70dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical" >
+        <EditText
+            android:id="@+id/reg_username"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/ed_input"
+            android:drawableLeft="@drawable/yonghu"
+            android:hint="请输入账号"
+            android:paddingLeft="5dp" />
+
+        <EditText
+            android:id="@+id/reg_password"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_marginTop="1dp"
+            android:background="@drawable/ed_input"
+            android:drawableLeft="@drawable/mima"
+            android:hint="请输入密码"
+            android:paddingLeft="5dp"
+            android:password="true" />
+
+        <EditText
+            android:id="@+id/reg_name"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_marginTop="1dp"
+            android:background="@drawable/ed_input"
+            android:hint="请输入姓名"
+            android:paddingLeft="5dp" />
+        <EditText
+            android:id="@+id/reg_iden"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_marginTop="1dp"
+            android:background="@drawable/ed_input"
+            android:hint="请输入身份证号码"
+            android:paddingLeft="5dp" />
+         <EditText
+            android:id="@+id/reg_sex"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_marginTop="1dp"
+            android:background="@drawable/ed_input"
+            android:hint="请输入性别"
+            android:paddingLeft="5dp" />
+           <EditText
+            android:id="@+id/reg_phone"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_marginTop="1dp"
+            android:background="@drawable/ed_input"
+            android:hint="请输入电话"
+            android:paddingLeft="5dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center|top"
+        android:orientation="horizontal" >
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:background="@drawable/border_login"
+            android:onClick="RegBtnClick"
+            android:text="创建新账户"
+            android:textColor="#fff" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hospital/db/StreamUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hospital/fragment/HomeFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hospital/fragment/Mine_zi_Fragment_1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hospital/fragment/Mine_zi_Fragment_2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hospital/fragment/Order_zi_Fragment_1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hospital/util/SystemHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hospital/yuyue/AddActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hospital/yuyue/AddQues.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hospital/yuyue/ChongzhiActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hospital/yuyue/DocActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hospital/yuyue/RegActivity.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

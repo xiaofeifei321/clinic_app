@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\android\\clinic_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\doc.xml",
+        "source": "F:\\android\\clinic_app\\app\\src\\main\\res\\menu\\doc.xml"
+    },
+    {
+        "merged": "F:\\android\\clinic_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add.xml",
+        "source": "F:\\android\\clinic_app\\app\\src\\main\\res\\menu\\add.xml"
+    },
+    {
+        "merged": "F:\\android\\clinic_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "F:\\android\\clinic_app\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "F:\\android\\clinic_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\android\\clinic_app\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\android\\clinic_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\reg.xml",
+        "source": "F:\\android\\clinic_app\\app\\src\\main\\res\\menu\\reg.xml"
+    },
+    {
+        "merged": "F:\\android\\clinic_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chongzhi.xml",
+        "source": "F:\\android\\clinic_app\\app\\src\\main\\res\\menu\\chongzhi.xml"
+    }
+]

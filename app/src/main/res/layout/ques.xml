@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+  >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#6cf"
+        android:gravity="center"
+        android:text="我的咨询"
+         android:id="@+id/key_"
+        android:textColor="#fff"
+        android:textSize="20sp" />
+  <ListView
+        android:id="@+id/homelist"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="#eee"
+        android:dividerHeight="5dp"
+         >
+    </ListView>
+
+</LinearLayout>
